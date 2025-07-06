@@ -95,7 +95,7 @@ Model was trained using the **[HAM10000 dataset](https://www.kaggle.com/datasets
 
 ## 📄 License
 
-This project is under the **MIT License**.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
