@@ -32,7 +32,7 @@ This is an advanced **AI-powered web application** built using **Streamlit** and
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/skin-cancer-detector.git
+   git clone https://github.com/abhishek172003/skin-cancer-detector.git
    cd skin-cancer-detector
    ```
 
